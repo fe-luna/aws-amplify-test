@@ -1,0 +1,14 @@
+{
+  "resourceName": "s32fbb3d43",
+  "policyUUID": "2fbb3d43",
+  "bucketName": "awsamplifytestc345866e038d4459b093c90c822b2db1",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}

@@ -14,6 +14,12 @@
     "categories": {
       "auth": {
         "awsamplifytest3c5699e8": {}
+      },
+      "api": {
+        "awsamplifytest": {}
+      },
+      "storage": {
+        "s32fbb3d43": {}
       }
     }
   }
